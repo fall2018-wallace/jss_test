@@ -64,8 +64,12 @@
         },
         {
             "name": "smallFile.csv"
+        },
+        {
+            "desc": "",
+            "name": "genHist.R"
         }
     ],
-    "updated_at": "2018-09-27 16:49:50",
+    "updated_at": "2018-09-27 16:52:58",
     "url": "https://github.com/fall2018-wallace/jss_test"
 }
