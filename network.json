@@ -68,8 +68,11 @@
         {
             "desc": "",
             "name": "genHist.R"
+        },
+        {
+            "name": "HistPlot.png"
         }
     ],
-    "updated_at": "2018-09-27 16:52:58",
+    "updated_at": "2018-09-27 16:53:10",
     "url": "https://github.com/fall2018-wallace/jss_test"
 }
