@@ -33,6 +33,16 @@
             ],
             "source": "data.csv",
             "target": "genSubset.R"
+        },
+        {
+            "ports": [
+                {
+                    "output": "dfOut",
+                    "type": "csv"
+                }
+            ],
+            "source": "genSubset.R",
+            "target": "smallFile.csv"
         }
     ],
     "nodes": [
@@ -56,6 +66,6 @@
             "name": "smallFile.csv"
         }
     ],
-    "updated_at": "2018-09-27 16:49:32",
+    "updated_at": "2018-09-27 16:49:50",
     "url": "https://github.com/fall2018-wallace/jss_test"
 }
